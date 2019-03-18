@@ -1,14 +1,13 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/meeting/meeting",
-    "pages/test/test"
+    "pages/webrtc-room/index/index",
+    "pages/webrtc-room/room/room"
   ],
   "window": {
-    "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#8FD3F5",
-    "navigationBarTitleText": "",
-    "navigationBarTextStyle": "white",
-    "backgroundColor": "#8FD3F5"
+    "backgroundColor": "#888",
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "腾讯视频云",
+    "navigationBarTextStyle": "white"
   }
 }
